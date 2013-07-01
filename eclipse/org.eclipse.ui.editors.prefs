@@ -1,0 +1,26 @@
+#Tue May 07 13:59:45 CEST 2013
+secondaryIPColor=63,97,24
+printMargin=true
+AbstractTextEditor.Color.Background=49,51,54
+textDragAndDropEnabled=false
+eclipse.preferences.version=1
+taskIndicationColor=128,0,255
+spacesForTabs=true
+AbstractTextEditor.Color.Foreground.SystemDefault=false
+AbstractTextEditor.Color.Foreground=255,255,255
+AbstractTextEditor.Color.SelectionBackground=107,142,35
+currentIPColor=24,40,97
+overviewRuler_migration=migrated_3.1
+spellingEngine=org.eclipse.jdt.internal.ui.text.spelling.DefaultSpellingEngine
+lineNumberRuler=true
+searchResultIndicationColor=205,133,63
+currentLineColor=25,25,25
+quickdiff.quickDiff=false
+AbstractTextEditor.Color.SelectionForeground=240,230,140
+org.eclipse.cdt.ui.occurrenceIndicationColor=165,42,42
+AbstractTextEditor.Color.Background.SystemDefault=false
+occurrenceIndicationColor=229,229,229
+AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
+AbstractTextEditor.Color.FindScope=205,133,63
+spellingEnabled=false
+AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
